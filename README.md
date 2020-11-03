@@ -8,11 +8,9 @@ Repo: https://github.com/jiaweiyu2009/jpa02_cs156
 
 On Heroku: https://cs156-f20-jiaweiyu2009-jpa02.herokuapp.com/
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-f20/jpa02-cgaucho
+
+On Codecov: 
 
 
 # About this repo
