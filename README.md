@@ -10,7 +10,7 @@ On Heroku: https://cs156-f20-jiaweiyu2009-jpa02.herokuapp.com/
 
 
 
-On Codecov: 
+On Codecov: https://codecov.io/gh/jiaweiyu2009/jpa02_cs156
 
 
 # About this repo
